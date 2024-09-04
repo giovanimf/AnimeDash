@@ -1,30 +1,24 @@
-# React + TypeScript + Vite
+# Anime Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌟 **Anime Dashboard: Uma Mostra de Habilidades** 🌟
 
-Currently, two official plugins are available:
+Explore o meu mais recente projeto: um sofisticado **dashboard** dedicado ao mundo dos animes, desenvolvido com **React**, **Tailwind CSS** e **TypeScript**. Este projeto foi criado para testar e aprimorar minhas habilidades em tecnologias modernas e criar uma interface envolvente e responsiva.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades
 
-## Expanding the ESLint configuration
+- **Design Responsivo**: Adaptado para diferentes tamanhos de tela, garantindo uma experiência fluida em dispositivos móveis e desktop.
+- **Interface Interativa**: Navegação intuitiva e interativa, com foco na experiência do usuário.
+- **Estética Moderna**: Utiliza Tailwind CSS para um design limpo e moderno.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Tecnologias Utilizadas
 
-- Configure the top-level `parserOptions` property like this:
+- **React**: Biblioteca para construção de interfaces de usuário.
+- **Tailwind CSS**: Framework de CSS utilitário para design rápido e responsivo.
+- **TypeScript**: Superset do JavaScript que adiciona tipagem estática ao código.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json', './tsconfig.app.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## Como Executar o Projeto
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+1. **Clone o Repositório**
+
+   ```bash
+   git clone https://github.com/giovanimf/AnimeDash.git
