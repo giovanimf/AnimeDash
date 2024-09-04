@@ -93,11 +93,11 @@ export const links = [
     //icon: IoIosLogIn,
     //text: "Entrar",
   //},
-  {
-    href: "#",
-    icon: IoIosLogOut,
-    text: "Sair",
-  },
+  // {
+  //   href: "#",
+  //   icon: IoIosLogOut,
+  //   text: "Sair",
+  // },
 ];
 
 export const empolyeesData: EmpolyeesDataProps[] = [

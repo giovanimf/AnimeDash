@@ -2,6 +2,7 @@ import { LinkProps } from "../../constants";
 
 export function LinkItem ({href, icon:Icon, text, badge}:LinkProps){
     return(
+        <>
         <li>
             <a 
                 href={href} 
@@ -12,5 +13,7 @@ export function LinkItem ({href, icon:Icon, text, badge}:LinkProps){
                 {badge && <span className={`inline-flex items-center justify-center px-2 py-1 ms-3 text-sm font-medium rounded-full ${badge.color} ${badge.darkColor}`}>{badge.text}</span>}
             </a>
         </li>
+        </>
+
     )
 }
