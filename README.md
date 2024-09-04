@@ -1,4 +1,4 @@
-# Anime Dashboard
+# AnimeDash
 
 🌟 **Anime Dashboard: Uma Mostra de Habilidades** 🌟
 
