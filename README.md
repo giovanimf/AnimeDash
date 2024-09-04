@@ -16,6 +16,9 @@ Explore o meu mais recente projeto: um sofisticado **dashboard** dedicado ao mun
 - **Tailwind CSS**: Framework de CSS utilitário para design rápido e responsivo.
 - **TypeScript**: Superset do JavaScript que adiciona tipagem estática ao código.
 
+## Imagem
+![AnimeDash Screenshot](./src/assets/image.png)
+
 ## Como Executar o Projeto
 
 1. **Clone o Repositório**
