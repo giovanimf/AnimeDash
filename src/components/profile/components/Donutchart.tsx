@@ -14,7 +14,7 @@ export function DonutChart({ darkMode }: DarkModeProps) {
       height: 350,
     },
     labels: ["Desktop", "Tablet", "Mobile"],
-    colors: ["#FF5733", "#33FF57", "#3357FF"],
+    colors: ["#0f7594", "#0f9421", "#47bafd"],
     legend: {
       position: "bottom",
       labels: {
