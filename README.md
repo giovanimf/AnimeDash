@@ -18,5 +18,3 @@ Explore o meu mais recente projeto: um sofisticado **dashboard** dedicado ao mun
 
 ## Imagem
 ![AnimeDash Screenshot](./src/assets/image.png)
-
-## Como Executar o Projeto
