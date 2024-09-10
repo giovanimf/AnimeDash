@@ -20,8 +20,3 @@ Explore o meu mais recente projeto: um sofisticado **dashboard** dedicado ao mun
 ![AnimeDash Screenshot](./src/assets/image.png)
 
 ## Como Executar o Projeto
-
-1. **Clone o Repositório**
-
-   ```bash
-   git clone https://github.com/giovanimf/AnimeDash.git
