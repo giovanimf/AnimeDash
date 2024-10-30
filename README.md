@@ -17,4 +17,8 @@ Explore o meu mais recente projeto: um sofisticado **dashboard** dedicado ao mun
 - **TypeScript**: Superset do JavaScript que adiciona tipagem estática ao código.
 
 ## Imagem
+**Demo:** https://giovani.cloud/projetoanimedash/
+## Imagem
 ![AnimeDash Screenshot](./src/assets/image.png)
+
+
